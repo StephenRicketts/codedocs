@@ -1,0 +1,3 @@
+[submodule "ts-coding-env"]
+	path = ts-coding-env
+	url = https://github.com/StephenRicketts/ts-coding-env.git
